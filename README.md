@@ -1,6 +1,6 @@
 # [FR] Network pair à pair.
 
-Projet Réseaux Systèmes Avancées 2020-2021 de Niels TILCH et Maire-Hélène THOMAS. Création d'un réseaux permettant la recherche, le téléchargement d'un fichier existant dans un serveur et le transfert de fichiers entre deux utilisitateurs.
+Projet Réseaux Systèmes Avancés 2020-2021 de Niels TILCH et Maire-Hélène THOMAS. Création d'un réseaux permettant la recherche, le téléchargement d'un fichier existant dans un serveur et le transfert de fichiers entre deux utilisitateurs.
 
 # Librairie nécéssaire
 
